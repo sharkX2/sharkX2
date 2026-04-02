@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sharkX2
-- 👀 I’m interested in App Development 
-- 🌱 I’m currently learning App Developer 
+- 👀 I’m Servicenow Developer
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me vvrajalingam2003@gmail.com
+- 📫 How to reach me rajalingamveerakumar@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
